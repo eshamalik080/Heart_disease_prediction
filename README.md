@@ -1,12 +1,12 @@
 ### **Task Objective**
   Predict heart disease presence using patient health attributes
 ### **Dataset used**
-  Heart Disease UCI dataset (From Kaggle)
-  ##### Features include: age, sex, cp, chol, thal, trestbps, thalch, slope, exang, oldpeak, ca  
-  ##### Target: num
+    Heart Disease UCI dataset (From Kaggle)
+    Features include: age, sex, cp, chol, thal, trestbps, thalch, slope, exang, oldpeak, ca  
+    Target: num
 ### **Model Applied**
-  Logistic Regression
- ##### Decision Tree
+    Logistic Regression
+    Decision Tree
 ### **Key Results and findings**
     Logistic Regression accuracy: **~56%**
     Decision Tree accuracy: **~50%**
