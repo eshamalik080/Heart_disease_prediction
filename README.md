@@ -1,5 +1,5 @@
 ### **Task Objective**
-  Predict heart disease presence using patient health attributes
+    Predict heart disease presence using patient health attributes
 ### **Dataset used**
     Heart Disease UCI dataset (From Kaggle)
     Features include: age, sex, cp, chol, thal, trestbps, thalch, slope, exang, oldpeak, ca  
